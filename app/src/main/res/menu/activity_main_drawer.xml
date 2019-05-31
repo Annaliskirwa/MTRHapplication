@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_tune_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/serve"
+            android:icon="@drawable/ic_help_24dp"
+            android:title="@string/services" />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/ic_location_24dp"
+            android:title="@string/location" />
+        <item
+            android:id="@+id/abt"
+            android:icon="@drawable/ic_search_24dp"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/fback"
+            android:title="@string/feedback"
+            android:icon="@drawable/ic_feedback_24dp" />
+    </group>
+
+    <item android:title="@string/communication">
+        <menu>
+            <item android:id="@+id/email" android:title="@string/email" android:icon="@drawable/ic_email_24dp"/>
+            <item android:id="@+id/call" android:title="@string/call" android:icon="@drawable/ic_call_24dp"/>
+            <item android:id="@+id/logout" android:title="@string/logout" android:icon="@drawable/ic_cancel_black_24dp"/>
+        </menu>
+    </item>
+</menu>
+
+

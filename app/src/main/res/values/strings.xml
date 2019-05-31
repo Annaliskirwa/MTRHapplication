@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MTRH</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">login here</string>
+    <string name="nav_header_subtitle">create new account</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_singup">sign up</string>
+    <string name="email">email</string>
+    <string name="call">call</string>
+    <string name="logout">logout</string>
+    <string name="communication">communicate</string>
+    <string name="feedback">feedback</string>
+    <string name="about">about</string>
+    <string name="location">location</string>
+    <string name="menu">Home</string>
+    <string name="home">Home</string>
+    <string name="services">servises</string>
+    <string name="click_here_to_launch_an_email">click here to launch an email</string>
+    <string name="action_settings">sign up</string>
+    <string name="hujui_map_click_anyway">hujui map? click anyway</string>
+    <string name="one_fragment">One Fragment</string>
+</resources>
